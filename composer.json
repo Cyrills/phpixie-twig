@@ -3,7 +3,7 @@
     "description": "Twig for phpixie",
     "keywords": ["twig"],
     "require": {
-        "twig/twig": "^2.0@dev"
+        "twig/twig": "~1.18"
     },
     "authors": [
         {
