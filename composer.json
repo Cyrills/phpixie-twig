@@ -1,6 +1,7 @@
 {
     "name": "phpixie/twig",
     "description": "Twig for phpixie",
+    "keywords": ["twig"],
     "require": {
         "twig/twig": "^2.0@dev"
     },
@@ -10,5 +11,8 @@
             "email": "cyrill@mail.ru"
         }
     ],
+    "autoload": {
+        "psr-0": {"PHPixie": "classes/"}
+    },
     "minimum-stability": "dev"
 }
