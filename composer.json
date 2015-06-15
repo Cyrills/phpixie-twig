@@ -1,0 +1,14 @@
+{
+    "name": "phpixie/twig",
+    "description": "Twig for phpixie",
+    "require": {
+        "twig/twig": "^2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "Abramov Cyrill",
+            "email": "cyrill@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
